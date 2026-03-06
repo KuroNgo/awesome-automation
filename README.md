@@ -26,20 +26,6 @@ This is a curated **Personal Toolbox** designed for high-performance developers.
 
 ---
 
-## 📂 Repository Map
-
-```text
-.
-├── rclone/             # Cloud sync configs & Multi-language guides
-├── automation/         # Windows .bat and .ps1 startup scripts
-├── docs/               # Architecture notes & CLI cheat sheets
-├── backups/            # Logic & lists for external project backups
-└── README.md           # The entry point
-
-```
-
----
-
 ## 🔒 Security & Privacy
 
 * **Zero Credentials:** This repository **DOES NOT** store `.env`, `rclone.conf`, or private keys.
