@@ -2,6 +2,16 @@
 
 > **Note:** Always append a colon `:` after the remote name (e.g., `gdrive:`, `backup:`)
 
+## 🔗 Quick Links
+
+* **Official Website:** [rclone.org](https://rclone.org/)
+* **Downloads:** [rclone.org/downloads](https://rclone.org/downloads/)
+* **Documentation:** [rclone.org/docs](https://rclone.org/docs/)
+* **Google Drive Specifics:** [rclone.org/drive](https://rclone.org/drive/)
+* **Required for Mount (Windows):** [WinFsp Downloads](https://winfsp.dev/rel/)
+
+---
+
 ## 1. Configuration Management
 
 * `rclone config`: Open the interactive setup (Add/Edit/Delete remotes).
