@@ -40,28 +40,6 @@ This is a curated **Personal Toolbox** designed for high-performance developers.
 
 ---
 
-## 🛠️ Usage
-
-### Quick Setup
-
-1. **Clone the tools:**
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-
-```
-
-
-2. **Sync to your own Cloud:**
-Replace `<your-remote>` with your RClone remote name:
-```bash
-rclone sync . <your-remote>:work-tools -P --exclude ".git/**"
-
-```
-
-
-
----
-
 ## 🔒 Security & Privacy
 
 * **Zero Credentials:** This repository **DOES NOT** store `.env`, `rclone.conf`, or private keys.
