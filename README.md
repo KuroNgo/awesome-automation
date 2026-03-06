@@ -1,32 +1,55 @@
-# 🛠️ Ultimate Developer Toolbox & Cloud Automation
+# 🛠️ Ultimate Developer Toolbox & Workflow Automation
 
 > **"The best tools are the ones that disappear into your workflow."**
 
-This is a curated **Personal Toolbox** designed for high-performance developers. It focuses on DevOps scripts, cloud automation, and technical documentation to ensure a seamless, synchronized work environment across any machine.
+This is an evolving, curated **Personal Toolbox** designed for high-performance developers. It serves as a central hub for DevOps scripts, cloud automation, and high-efficiency workflows to ensure a seamless work environment across any machine.
 
 ---
 
-## 🚀 Key Features
+## 🚀 Key Features & Toolset
 
-### ☁️ Cloud Operations (Powered by RClone)
+### ☁️ Cloud Operations & Data Integrity
 
-* **Storage Sync:** Production-ready configurations for seamless cross-cloud data migration.
-* **Automated Backup:** Smart scripts to safeguard your project directories to encrypted remotes.
-* **Smart Mount:** One-click utilities to map Google Drive/OneDrive as local virtual drives with optimized caching.
+* **RClone Mastery:** Production-ready configurations for cross-cloud migration and smart mounting.
+* **Automated Backup:** Intelligent scripts to safeguard project directories to encrypted remotes.
+* **Storage Optimization:** Utilities for managing cloud-native storage (S3, GDrive, OneDrive).
 
-### 📜 Technical Knowledge Base
+### 📜 Professional Knowledge Base
 
-* **Cheat Sheets:** Quick-reference guides for RClone, Git, and Backend Architecture.
-* **Environment Setup:** Standardized instructions to replicate a professional dev environment in minutes.
+* **Interactive Cheat Sheets:** Quick-reference guides for RClone, Git, Docker, and Backend Architecture.
+* **Environment Replication:** Standardized playbooks to set up professional dev environments in minutes.
+* **Best Practices:** Curated notes on Go, Flutter, and Nuxt.js development patterns.
 
-### 🤖 System Automation
+### 🤖 System & Workflow Automation
 
-* **Startup Flows:** Batch & PowerShell scripts to automate routine tasks upon Windows logon.
-* **Project Maintenance:** Cleaners for `node_modules`, `vendor`, and temporary build files to keep your system lean.
+* **Execution Flows:** Batch, PowerShell, and Shell scripts to automate routine OS tasks.
+* **Project Housekeeping:** Automated cleaners for `node_modules`, `vendor`, and build artifacts to keep systems lean.
+* **CI/CD Snippets:** Reusable GitHub Actions and automation logic for fast deployments.
+
+*(Note: More tools and integrations are being added as I explore and master new technologies.)*
+
+---
+
+## 🛠️ Getting Started
+
+1. **Clone the Toolbox:**
+```bash
+git clone https://github.com/KuroNgo/awesome-automation.git
+
+```
+
+2. **Explore the Docs:**
+Navigate to each directory for specific tool documentation and usage instructions.
 
 ---
 
 ## 🔒 Security & Privacy
 
 * **Zero Credentials:** This repository **DOES NOT** store `.env`, `rclone.conf`, or private keys.
-* **Security First:** Only logic and templates are public. All sensitive data remains in your private, encrypted storage.
+* **Security First:** Only logic, templates, and public guides are shared. All sensitive data remains in your private, encrypted storage.
+
+---
+
+## ⚖️ License
+
+Distributed under the **MIT License**.
